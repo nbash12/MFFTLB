@@ -1,2 +1,5 @@
-# MFFTLB
-Microsoft Family Features Time Limit Bypass [Browser Bypass Too]
+# Bypass
+### Open the file as admin and enter a path.
+# Requirements
+##C++ Runtime
+## VSR
